@@ -3263,7 +3263,7 @@
   {
     "Title": "Never a Dull Moment",
     "Directed by": "Jerry Paris",
-    "Written by": "AJ Carothers",
+    "Written by": "A. J. Carothers",
     "Based on": [
       "John Godey",
       "novels",
@@ -5764,12 +5764,13 @@
     ],
     "Music by": "Alan Silvestri",
     "Production companies": [
+      "Walt Disney Pictures",
       "PSO Productions",
       "Viking Film AS"
     ],
     "Distributed by": [
       "Buena Vista Pictures",
-      "(United States)",
+      "(United States/International)",
       "PSO Productions",
       "(International)"
     ],
@@ -10748,7 +10749,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$15 million",
-    "Box office": "$33.1 million"
+    "Box office": "$105.1 million"
   },
   {
     "Title": "Winnie the Pooh: Springtime with Roo",
@@ -19263,7 +19264,10 @@
     ],
     "Edited by": "Sylvain Blais",
     "Music by": "John Paesano",
-    "Production company": "Walt Disney Pictures",
+    "Production companies": [
+      "Walt Disney Pictures",
+      "Bardel Entertainment"
+    ],
     "Distributed by": "Disney+",
     "Release date": [
       "December 3, 2021"
@@ -19305,11 +19309,10 @@
       "The Walt Disney Company CIS",
       "Yellow, Black & White"
     ],
-    "Distributed by": "Walt Disney Studios",
+    "Distributed by": "Walt Disney Studios Motion PicturesCIS",
     "Release date": [
       "December 23, 2021"
     ],
-    "Running time": "108 minutes",
     "Country": "Russia",
     "Language": "Russian"
   },
@@ -19492,7 +19495,7 @@
     ],
     "Distributed by": "Disney+",
     "Release date": [
-      "April 8, 2022 (United States)"
+      "2022"
     ],
     "Country": "United States",
     "Language": "English"
@@ -19616,7 +19619,10 @@
     ],
     "Edited by": "Sylvain Blais",
     "Music by": "John Paesano",
-    "Production company": "Walt Disney Pictures",
+    "Production companies": [
+      "Walt Disney Pictures",
+      "Bardel Entertainment"
+    ],
     "Distributed by": "Disney+",
     "Release date": [
       "December 3, 2021"
@@ -19731,9 +19737,6 @@
       "Roth/Kirschenbaum Films"
     ],
     "Distributed by": "Disney+",
-    "Release date": [
-      "2022"
-    ],
     "Country": "United States",
     "Language": "English"
   },
